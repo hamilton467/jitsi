@@ -1,0 +1,11 @@
+I changed my wifi router, and now I can’t receive calls, but when I call out they can hear me and I can’t hear them.
+
+I have read a lot of post, changed Codecs to the basics, G722/1600 - PCMU/8000. Verified the wifi router and turned off SIP ALG 
+setting.
+
+I know it’s related with the router but I don’t know what is it. My job depend on jitsi 100%. That’s why I’m looking for help.
+
+Thanks
+
+https://community.jitsi.org/t/changed-wifi-router/21649/2
+
